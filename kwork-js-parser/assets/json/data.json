@@ -1,0 +1,2317 @@
+[
+    {
+        "header": {
+            "title": "We recommend it for you"
+        },
+        "productContainer": {
+            "options": {
+                "itemsAreFaded": true,
+                "ratio": "",
+                "columnsCount": 4,
+                "withGaps": false
+            },
+            "products": [
+                {
+                    "alt": "Proffi Suitcase We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-3/6272176419.jpg",
+                                "link": "https://cdnvideo.v.ozone.ru/vod/video-48/01J2VCXG3C09N81T5C4Q091K85/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "nRtr5RBnMtOZlm9nuNArDl6HW0PyrkiLmnW1xuglMZQm"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "nRtr5RBnMtOZlm9nuNArDl6HW0PyrkiLmnW1xuglMZQm"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "nRtr5RBnMtOZlm9nuNArDl6HW0PyrkiLmnW1xuglMZQm"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-3/6272176419.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/proffi-travel-chemodan-na-kolesah-tekstilnyy-64-sm-43-l-2h-kolesnyy-chernyy-sredniy-m-ph11064-515252064/?advert=3eWRHmSW03vjYSWAgmpqr_LissVetT4E4-3TJDuhoHA4fBCAuKOum6H-qRV9x22-WTq9LY797dCQL1pWiaFQ4kKmDNdI2E1vFGEgM2vL5a7ucTUoAE20GYByOonHIDodY0MEnmx5gn94ER1TlqdflX5L0hGZ-A\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "515252064",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "17 076 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "37 352 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−54%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 80 pieces left",
+                                "percent": 32,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Proffi Suitcase",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "nRtr5RBnMtOZlm9nuNArDl6HW0PyrkiLmnW1xuglMZQm"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "nRtr5RBnMtOZlm9nuNArDl6HW0PyrkiLmnW1xuglMZQm"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "nRtr5RBnMtOZlm9nuNArDl6HW0PyrkiLmnW1xuglMZQm"
+                        }
+                    }
+                },
+                {
+                    "alt": "Hand Brush, 2 pcs We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-1-i/6949377090.jpg",
+                                "link": "https://v.ozone.ru/vod/video-22/01HMR8HA0WPVDA1QNSJJHZC1B6/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "28t0jDy7nfM8K7gYUWymA1DFMMWpMVFGm64JRcg52nKq"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "28t0jDy7nfM8K7gYUWymA1DFMMWpMVFGm64JRcg52nKq"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "28t0jDy7nfM8K7gYUWymA1DFMMWpMVFGm64JRcg52nKq"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-i/6949377090.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/shchetka-2-sht-mozhet-ispolzovatsya-dlya-ochistki-uglov-mertvyh-uglov-treshchin-i-drugih-oblastey-1398347391/?advert=mR9RrwGNFP6dy1g4ngZTi3uLlEDSuRFf5DQ60YexQB_DgmMETcwt3o3eYDwxLvLJfb1eeLpWWeIAhPbozdGoZYheBVP6w4HzHAO8TF6EYGL1uF1x7BMMQSenblVg-PCPlIO6UYSMkpQQvwPCFae6qF-WlrYwyU-XPA\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1398347391",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "665 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "4 398 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−84%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Hand Brush, 2 pcs",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "28t0jDy7nfM8K7gYUWymA1DFMMWpMVFGm64JRcg52nKq"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "28t0jDy7nfM8K7gYUWymA1DFMMWpMVFGm64JRcg52nKq"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "28t0jDy7nfM8K7gYUWymA1DFMMWpMVFGm64JRcg52nKq"
+                        }
+                    }
+                },
+                {
+                    "alt": "ЕЛИЗАР Stain Remover We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-u/7099989678.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/elizar-3-kg-kislorodnyy-pyatnovyvoditel-universalnoe-sredstvo-ochistitel-kontsentrat-dlya-311957320/?avtc=1\u0026avte=4\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "311957320",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "3 852 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "5 001 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−22%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 23,709 pieces left",
+                                "percent": 66,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "ЕЛИЗАР Stain Remover",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "x6tPOWNZri2MrPP8fWmLPxxtV2vq30hM8DA2Mim5ROm"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "x6tPOWNZri2MrPP8fWmLPxxtV2vq30hM8DA2Mim5ROm"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "x6tPOWNZri2MrPP8fWmLPxxtV2vq30hM8DA2Mim5ROm"
+                        }
+                    }
+                },
+                {
+                    "alt": "Athletic Shoes adidas We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-1-n/7053196019.jpg",
+                                "link": "https://v.ozone.ru/vod/video-42/01J0B7GB54DVC2Z8RV9135CGMH/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "Z8tXGWBzOUwnXv59Sr20QnCQgDj2JTKY1wQqcVK5EgL"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "Z8tXGWBzOUwnXv59Sr20QnCQgDj2JTKY1wQqcVK5EgL"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "Z8tXGWBzOUwnXv59Sr20QnCQgDj2JTKY1wQqcVK5EgL"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-n/7053196019.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/krossovki-adidas-1385860331/?advert=f05PBGo0hhILmBj8PpeuWwjIuKJaE2bbmOBlOV6pYdpyJLIoeMyHKU_F9hO0yjeUgcH-5L1iMSISqYlZ5W6SM24Ok_MJwFWYJC4K0ZkbuUy_Kpdh16vQBdRDv4GdJPGgaNtCVO_FL3v3QdzHYaQ7IWcxSTEpZjIlqQ\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1385860331",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "20 366 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "51 299 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−60%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 18 pieces left",
+                                "percent": 85,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Athletic Shoes adidas",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "Z8tXGWBzOUwnXv59Sr20QnCQgDj2JTKY1wQqcVK5EgL"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "Z8tXGWBzOUwnXv59Sr20QnCQgDj2JTKY1wQqcVK5EgL"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "Z8tXGWBzOUwnXv59Sr20QnCQgDj2JTKY1wQqcVK5EgL"
+                        }
+                    }
+                },
+                {
+                    "alt": "Classic Suit Zara We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-l/6941970273.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/kostyum-klassicheskiy-zara-1590188552/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1590188552",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "15 225 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "29 435 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−48%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Classic Suit Zara",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "LZtlvz8LEt66x81osorMEm6cM58mXjIpzO33oHj3LO76"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "LZtlvz8LEt66x81osorMEm6cM58mXjIpzO33oHj3LO76"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "LZtlvz8LEt66x81osorMEm6cM58mXjIpzO33oHj3LO76"
+                        }
+                    }
+                },
+                {
+                    "alt": "Trousers NIPLESS We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-z/6975281123.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/bryuki-nipless-1509139656/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1509139656",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "17 909 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "31 527 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−43%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Trousers NIPLESS",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "GRt2gzXwjfNywjR3imnD6lQcppEV91uM10n3OcPjELWQ"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "GRt2gzXwjfNywjR3imnD6lQcppEV91uM10n3OcPjELWQ"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "GRt2gzXwjfNywjR3imnD6lQcppEV91uM10n3OcPjELWQ"
+                        }
+                    }
+                },
+                {
+                    "alt": "Nivea Shaving Product, gel, 200 ml We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-1-t/7101973493.jpg",
+                                "link": "https://v.ozone.ru/vod/video-38/01HSBA83WK86KP3M20ZXEB8W43/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "x6tPOWNZrigwgk1KT6kj8KWc67nJQpFQwnOlZhXPVv1j"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "x6tPOWNZrigwgk1KT6kj8KWc67nJQpFQwnOlZhXPVv1j"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "x6tPOWNZrigwgk1KT6kj8KWc67nJQpFQwnOlZhXPVv1j"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-t/7101973493.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/nivea-men-gel-dlya-britya-uspokaivayushchiy-dlya-chuvstvitelnoy-kozhi-bez-soderzhaniya-spirta-200-ml-5044060/?advert=lqVpTUKt5E619zkeYfmMpSHcy-YzTP2TzNLDI3TsOxqc1_5M7qlVCwcCoUismAQbc52hXd4q4GqzAXhYQcoLGj_MBtQUlzfst0Irp6X-UuMHxz_RlJVNaJ7HSvZbj9BxxkZ0pijelB5BEssgbK0-TA9S\u0026avtc=1\u0026avte=4\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "5044060",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "1 884 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "3 811 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−50%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 7,991 pieces left",
+                                "percent": 80,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Nivea Shaving Product, gel, 200 ml",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "x6tPOWNZrigwgk1KT6kj8KWc67nJQpFQwnOlZhXPVv1j"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "x6tPOWNZrigwgk1KT6kj8KWc67nJQpFQwnOlZhXPVv1j"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "x6tPOWNZrigwgk1KT6kj8KWc67nJQpFQwnOlZhXPVv1j"
+                        }
+                    }
+                },
+                {
+                    "alt": "Athletic Shoes ZinBee We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-j/7036285735.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/krossovki-zinbee-1583491047/?advert=0LgCv1VNh3h9R8n6mqvGZitO8t9sc5w9spReU2Dusw4RcL-NfP4zxT8A_blMX1I9rIxY4hX_sNhIB4S1cxeHt3Kyg4h6YV3bJ4zejKV214ylWuqjcS5yJPdCfCNRno6tYdR-r31DmjJNspgFuDFhEDvhYYlQ84SnVg\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1583491047",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "2 310 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "24 048 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−90%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Athletic Shoes ZinBee",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "gpt4kzQ8VCokyErnI07VqrlsnM6D8rtG83QwvsDY0853"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "gpt4kzQ8VCokyErnI07VqrlsnM6D8rtG83QwvsDY0853"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "gpt4kzQ8VCokyErnI07VqrlsnM6D8rtG83QwvsDY0853"
+                        }
+                    }
+                },
+                {
+                    "alt": "Tracksuit Happyfox We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-d/6929750533.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/kostyum-sportivnyy-happyfox-1428758776/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1428758776",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "10 442 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "43 461 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−75%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Tracksuit Happyfox",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "jYtZ9xNgpf7xNRpnFAAlGPYunEGx28uA72NAXHkW5l2Z"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "jYtZ9xNgpf7xNRpnFAAlGPYunEGx28uA72NAXHkW5l2Z"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "jYtZ9xNgpf7xNRpnFAAlGPYunEGx28uA72NAXHkW5l2Z"
+                        }
+                    }
+                },
+                {
+                    "alt": "Socks Set  We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-5/6998902997.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/komplekt-noskov-5-par-1587229454/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1587229454",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "913 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "3 326 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−72%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 8 pieces left",
+                                "percent": 0,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Socks Set ",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "VvtzvpQMOS8zrMAMTjR7E0DuX2YqrgUnDZ0qytkVDgk8"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "VvtzvpQMOS8zrMAMTjR7E0DuX2YqrgUnDZ0qytkVDgk8"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "VvtzvpQMOS8zrMAMTjR7E0DuX2YqrgUnDZ0qytkVDgk8"
+                        }
+                    }
+                },
+                {
+                    "alt": "Cleaning Wipes, 5 pcs. We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-1-5/7037526965.jpg",
+                                "link": "https://v.ozone.ru/vod/video-40/01HYG0E3AZPM9FWWN43K9FAZT2/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "RltyV3ZN7I4n9DGqfPnJzoOivR2JPQSBK7xRKs620yM7"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "RltyV3ZN7I4n9DGqfPnJzoOivR2JPQSBK7xRKs620yM7"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "RltyV3ZN7I4n9DGqfPnJzoOivR2JPQSBK7xRKs620yM7"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-5/7037526965.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/nabor-salfetok-metallicheskih-dlya-chistki-posudy-5sht-1395795190/?advert=s89BUm9YhQusxhG6H5C6_BxHZLDVi9nAUbnzSul-YtgxdGGMcava18iPR0UTp936pUDbaSt8FrrUIRvtoeqD2_uiWwUjd-mQd0nW7AEq5THx5rkGEoqmdYfkSKkgiDQYhbfaquySUHsJPLgzpQRarpTtcJ-g3OB7\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1395795190",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "1 693 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "8 828 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−80%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Cleaning Wipes, 5 pcs.",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "RltyV3ZN7I4n9DGqfPnJzoOivR2JPQSBK7xRKs620yM7"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "RltyV3ZN7I4n9DGqfPnJzoOivR2JPQSBK7xRKs620yM7"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "RltyV3ZN7I4n9DGqfPnJzoOivR2JPQSBK7xRKs620yM7"
+                        }
+                    }
+                },
+                {
+                    "alt": " Pet Brush We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-1-i/7016604498.jpg",
+                                "link": "https://v.ozone.ru/vod/video-14/01HWQ16648G73TXR184GN6YQXP/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "16tLRQW8vfM3yl83cj413RDIXoPwD3hRAYoByuK5BqpM"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "16tLRQW8vfM3yl83cj413RDIXoPwD3hRAYoByuK5BqpM"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "16tLRQW8vfM3yl83cj413RDIXoPwD3hRAYoByuK5BqpM"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-i/7016604498.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/perchatka-dlya-vychesyvaniya-shersti-koshek-i-sobak-chesalka-dlya-raschesyvaniya-puhoderka-1562881179/?advert=4MEj9HJJ0HpAmq15jkWSh_ZQ4vtu37KPexxlCaG74Ziigol1Wqo3EKHx7jNzrbZwWbdGrQ1JzJw_88fT1tHybLJveDeTYSH4OlwojO4Kf_NSLslV6xL27LcsvKRi5rKkHm92EQMdMBkAGNXjSViTBQYFUXpLUhObnw\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1562881179",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "1 092 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "5 534 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−80%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 2,910 pieces left",
+                                "percent": 99,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": " Pet Brush",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "16tLRQW8vfM3yl83cj413RDIXoPwD3hRAYoByuK5BqpM"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "16tLRQW8vfM3yl83cj413RDIXoPwD3hRAYoByuK5BqpM"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "16tLRQW8vfM3yl83cj413RDIXoPwD3hRAYoByuK5BqpM"
+                        }
+                    }
+                },
+                {
+                    "alt": "Casio Wrist Watch Quartz We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-2/6779424098.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/elektronnye-yaponskie-chasy-casio-collection-f-91w-3-s-podsvetkoy-s-garantiey-1423950327/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1423950327",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "9 251 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "17 274 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−46%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 1 pieces left",
+                                "percent": 3,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Casio Wrist Watch Quartz",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "PjtJlLVQycQWvY3vflkBM8jfOGnPzLfx36oNlH9OGvlj"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "PjtJlLVQycQWvY3vflkBM8jfOGnPzLfx36oNlH9OGvlj"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "PjtJlLVQycQWvY3vflkBM8jfOGnPzLfx36oNlH9OGvlj"
+                        }
+                    }
+                },
+                {
+                    "alt": " Cleaning Kit We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-1-i/7102243566.jpg",
+                                "link": "https://v.ozone.ru/vod/video-45/01J1ED8PF15HN6E60VK9C3RGTW/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "OgtEGBQ3qFMgpWxzTpD4B0MFQWNpAqTQ1K0JwCElq0Vj"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "OgtEGBQ3qFMgpWxzTpD4B0MFQWNpAqTQ1K0JwCElq0Vj"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "OgtEGBQ3qFMgpWxzTpD4B0MFQWNpAqTQ1K0JwCElq0Vj"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-i/7102243566.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/cleaning-kit-1398066024/?advert=nOSlK15AZNECWU8cj2LURe0NP77pAtMoZwNXqZAyeOPZK7EpRQeYqeXATxS2Mhxz2XH_LO-7kFgeEDTizpJrZ-DkupnBUbswaINsI3i7Pi9ZPU6eJcX1YL5dZypQE12K2ygJrdL8EuFNyDutkV2vourIAxmDA12zew\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1398066024",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "1 213 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "5 550 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−78%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": " Cleaning Kit",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "OgtEGBQ3qFMgpWxzTpD4B0MFQWNpAqTQ1K0JwCElq0Vj"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "OgtEGBQ3qFMgpWxzTpD4B0MFQWNpAqTQ1K0JwCElq0Vj"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "OgtEGBQ3qFMgpWxzTpD4B0MFQWNpAqTQ1K0JwCElq0Vj"
+                        }
+                    }
+                },
+                {
+                    "alt": "Touchpcs Plumbing Spiral We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-t/6735841733.jpg",
+                                "link": "https://cdnvideo.v.ozone.ru/vod/video-25/01H8HAMPVFHX4Q09589S6X5KGK/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "36tWBrNZLhvKKMKxtWLJWwhWjrWoRiDROVX8hGxoly5"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "36tWBrNZLhvKKMKxtWLJWwhWjrWoRiDROVX8hGxoly5"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "36tWBrNZLhvKKMKxtWLJWwhWjrWoRiDROVX8hGxoly5"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-t/6735841733.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/volosogon-ot-zasorov-ershik-dlya-prochistki-trub-shchetka-dlya-prochistki-zasorov-v-vannoy-komnate-1150317735/?advert=LSV6O8e_3Oow3Ldkng5Dp3t0kaFOwUh-4VGXhKZh5zo1YnmM-mcjguFCyEe7YYT90JudKf1byvYCcsFTVBRRNC3kdw42H3CEw2Wg4NtFTkE2cKtQ9eaXyqVoXhr18ELWJXViRD5E80_-UvAJndOxnxjfPkTOowwAMA\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1150317735",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "601 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "1 421 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−57%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 79 pieces left",
+                                "percent": 2,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Touchpcs Plumbing Spiral",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "36tWBrNZLhvKKMKxtWLJWwhWjrWoRiDROVX8hGxoly5"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "36tWBrNZLhvKKMKxtWLJWwhWjrWoRiDROVX8hGxoly5"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "36tWBrNZLhvKKMKxtWLJWwhWjrWoRiDROVX8hGxoly5"
+                        }
+                    }
+                },
+                {
+                    "alt": " Backpack We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-h/6956657657.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/ryukzak-gorodskoy-seryy-uniseks-muzhskoy-zhenskiy-podrostkovyy-sportivnyy-portfel-dlya-malchikov-1259136500/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1259136500",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "5 762 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "30 349 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−81%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": " Backpack",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "MZtvlnmjEfkZNPKXCjyENj2hwGRo6MIB4v2l6TQ9lQMr"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "MZtvlnmjEfkZNPKXCjyENj2hwGRo6MIB4v2l6TQ9lQMr"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "MZtvlnmjEfkZNPKXCjyENj2hwGRo6MIB4v2l6TQ9lQMr"
+                        }
+                    }
+                },
+                {
+                    "alt": "ROYAL JASMINE Hair Loop Tool We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-1-r/7075810395.jpg",
+                                "link": "https://cdnvideo.v.ozone.ru/vod/video-43/01HWN3NS3KN8SWFSC0830996VW/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "qQtJWMw9mcm9mWXHJ7qwK9cnNGYpxFwLMn4AhrQBB2n"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "qQtJWMw9mcm9mWXHJ7qwK9cnNGYpxFwLMn4AhrQBB2n"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "qQtJWMw9mcm9mWXHJ7qwK9cnNGYpxFwLMn4AhrQBB2n"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-r/7075810395.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/spiralka-dlya-pleteniya-frantsuzskoy-kosy-zakolka-aksessuar-v-forme-zmeyki-spiralki-royal-jasmine-1356746256/?advert=zbFI-AscfdCnwjIG6-MkkbjUTuW24EERdH1THEGPTB2CZh3oLIJxqavR2Z9zTLUyZ6NhS6r9UEuPsIvIzSitsg8jOj4SPXUjHzUr-i1wCF1vaJhkz_J6ZlhGCpBkVO3KaJqxpbFNQE62gEV-k3XqOPuqIyHxHbai\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1356746256",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "1 145 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "1 168 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−1%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "ROYAL JASMINE Hair Loop Tool",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "qQtJWMw9mcm9mWXHJ7qwK9cnNGYpxFwLMn4AhrQBB2n"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "qQtJWMw9mcm9mWXHJ7qwK9cnNGYpxFwLMn4AhrQBB2n"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "qQtJWMw9mcm9mWXHJ7qwK9cnNGYpxFwLMn4AhrQBB2n"
+                        }
+                    }
+                },
+                {
+                    "alt": "Hatber Pencil Set Coloured , 24 pcs We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-s/6123148360.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/nabor-tsvetnyh-karandashey-plastikovyh-hatber-eco-24-tsveta-s-zatochkoy-v-kartonnoy-korobke-322332670/?advert=MGKXr-4a7nqWDXsP-bBalPlLzRAUNi1w-CFqEH6YdDNSHI0Zs7aadIdgegs2N5fA8pNNSR_H4_YARlgujwBZXzWcjtdT06DxCVVhw5hRpL-Ytnty0gYDKdcmIW2gDfvFA8pC7_LX2_dP5t_XPxGjfo6kfEPyC5M\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "322332670",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "1 114 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "2 196 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−49%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Hatber Pencil Set Coloured , 24 pcs",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "QktJxwZ7zcrYqyEkIGy1N1ZsZqZ6xnI7wPjB9HGP6lgX"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "QktJxwZ7zcrYqyEkIGy1N1ZsZqZ6xnI7wPjB9HGP6lgX"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "QktJxwZ7zcrYqyEkIGy1N1ZsZqZ6xnI7wPjB9HGP6lgX"
+                        }
+                    }
+                },
+                {
+                    "alt": "Clogs Crocs We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-r/6835132323.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/sabo-crocs-1297357508/?avtc=1\u0026avte=4\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1297357508",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "14 799 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "34 423 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−57%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 1 pieces left",
+                                "percent": 14,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Clogs Crocs",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "DqtDP8GXgHLZ4AJGHOmozkBfjnoL2DFw1B25NuoE4qJ5"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "DqtDP8GXgHLZ4AJGHOmozkBfjnoL2DFw1B25NuoE4qJ5"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "DqtDP8GXgHLZ4AJGHOmozkBfjnoL2DFw1B25NuoE4qJ5"
+                        }
+                    }
+                },
+                {
+                    "alt": "Denim Jacket We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-7/7076142331.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/kurtka-dzhinsovaya-1618698395/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1618698395",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "16 630 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "48 015 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−65%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Denim Jacket",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "nRtr5RBnMt1L520ZFzQ5q9vF5BE07Zu2Wj7pu1YMxmL"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "nRtr5RBnMt1L520ZFzQ5q9vF5BE07Zu2Wj7pu1YMxmL"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "nRtr5RBnMt1L520ZFzQ5q9vF5BE07Zu2Wj7pu1YMxmL"
+                        }
+                    }
+                },
+                {
+                    "alt": "Hand Brush, 2 pcs We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-1-a/6949364482.jpg",
+                                "link": "https://v.ozone.ru/vod/video-24/01HB0G5WXBZ4RH6XFFJW8WVTNB/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "BrtzoL2vES8PP9K7t727DGQsn0wNyjuAv163zFvQM7PL"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "BrtzoL2vES8PP9K7t727DGQsn0wNyjuAv163zFvQM7PL"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "BrtzoL2vES8PP9K7t727DGQsn0wNyjuAv163zFvQM7PL"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-a/6949364482.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/shchetka-dlya-chistki-mezhplitochnyh-shvov-i-trudnodostpnuh-mest2-sht-1416028179/?advert=LgSlMJpumMjZYnmJWpQm0J21q_YPahCp1Et-BE1BakaosedQTsuhaMkKLkaCu9Ke6K16fwUwFufzjH0jgUteTePxNy7EECX6-bgLU7q2cIixCRO2iXHPQuYhgm6huGJd3Zp4CvZEID8yAXMJhEaeJs-7NWIZmmie\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1416028179",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "844 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "5 496 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−84%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Hand Brush, 2 pcs",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "BrtzoL2vES8PP9K7t727DGQsn0wNyjuAv163zFvQM7PL"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "BrtzoL2vES8PP9K7t727DGQsn0wNyjuAv163zFvQM7PL"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "BrtzoL2vES8PP9K7t727DGQsn0wNyjuAv163zFvQM7PL"
+                        }
+                    }
+                },
+                {
+                    "alt": "Parachase Umbrella Full automatic We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-u/6360222762.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/zont-muzhskoy-avtomat-parachase-s-derevyannoy-ruchkoy-zontik-muzhskoy-avtomaticheskiy-s-pryamoy-268902465/?advert=XM5WEvfvzzcgakCahj8bC6-K0nm8sGppcPpqddZN20-ej0UANGxCa2MEFNp_Gqfh-cwZQiAKGODU8BlwIhl5VyChtyBSn8yEF5N-kXcq3Vx5xMi09nxXBrxhDVIqzPdKqxkFL_yGe590FTRzRfYd-YNuuVT5XozBkw\u0026avtc=1\u0026avte=4\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "268902465",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "10 459 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "16 472 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−36%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Parachase Umbrella Full automatic",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "Y7tj8yB5GiZm0PpkSJln04ZuyM6K5gCK2DJ2JHGzJYRY"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "Y7tj8yB5GiZm0PpkSJln04ZuyM6K5gCK2DJ2JHGzJYRY"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "Y7tj8yB5GiZm0PpkSJln04ZuyM6K5gCK2DJ2JHGzJYRY"
+                        }
+                    }
+                },
+                {
+                    "alt": "Athletic Shoes adidas Sportswear We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-l/7045983813.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/krossovki-adidas-sportswear-1595863502/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1595863502",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "6 912 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "41 996 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−83%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 5 pieces left",
+                                "percent": 45,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Athletic Shoes adidas Sportswear",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "nRtr5RBnMt1xMNqGtNKKWw2C2K16k6i1V7NJ2TBvvBnr"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "nRtr5RBnMt1xMNqGtNKKWw2C2K16k6i1V7NJ2TBvvBnr"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "nRtr5RBnMt1xMNqGtNKKWw2C2K16k6i1V7NJ2TBvvBnr"
+                        }
+                    }
+                },
+                {
+                    "alt": "Casio Wrist Watch Quartz We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-1-h/6949798613.jpg",
+                                "link": "https://v.ozone.ru/vod/video-42/01J14VS1A560AJ4GM0QGQ0QXJC/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "RltyV3ZN7IONERzvfJLnR77CPAKv4MUjoM8yyUlJkB9w"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "RltyV3ZN7IONERzvfJLnR77CPAKv4MUjoM8yyUlJkB9w"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "RltyV3ZN7IONERzvfJLnR77CPAKv4MUjoM8yyUlJkB9w"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-h/6949798613.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/casio-wrist-watch-quartz-1584651137/?advert=aJTgMf6-GnmzUdUagbOTYbXhKUoKq92NgvshLKSdJmhXsbqNe8-Cq5oOy1lCt0yOzu8GPsmbVc8X8tOI85U5itEq9O1hOAWuKSd1NoM0MXsnJHXqb_VJ9BZ_9URwr5K76kOFk_uR2pBZLcuQxR55PuRCyRoodICftg\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1584651137",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "5 227 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "16 891 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−69%",
+                                "priceStyle": {
+                                    "styleType": "ACTUAL_PRICE"
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Casio Wrist Watch Quartz",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "RltyV3ZN7IONERzvfJLnR77CPAKv4MUjoM8yyUlJkB9w"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "RltyV3ZN7IONERzvfJLnR77CPAKv4MUjoM8yyUlJkB9w"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "RltyV3ZN7IONERzvfJLnR77CPAKv4MUjoM8yyUlJkB9w"
+                        }
+                    }
+                },
+                {
+                    "alt": "Combat Boots LOWA We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-z/6954134039.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/bertsy-lowa-1472239506/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1472239506",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "16 713 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "34 569 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−51%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Combat Boots LOWA",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "lRt67Y4LgtYrmEV2UyEE6R3Hwj2GR8sMRyL4GuBZvOom"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "lRt67Y4LgtYrmEV2UyEE6R3Hwj2GR8sMRyL4GuBZvOom"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "lRt67Y4LgtYrmEV2UyEE6R3Hwj2GR8sMRyL4GuBZvOom"
+                        }
+                    }
+                },
+                {
+                    "alt": "Athletic Shoes ASICS We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-i/7008861618.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/krossovki-asics-1555011728/?avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1555011728",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "15 725 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "20 867 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−24%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 19 pieces left",
+                                "percent": 95,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Athletic Shoes ASICS",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "79tnqB7L3uEVq2PTEoRQLDIRYVgmXiPAZ0gDSoDmLlW"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "79tnqB7L3uEVq2PTEoRQLDIRYVgmXiPAZ0gDSoDmLlW"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "79tnqB7L3uEVq2PTEoRQLDIRYVgmXiPAZ0gDSoDmLlW"
+                        }
+                    }
+                },
+                {
+                    "alt": "Underwear Trunks/Panties Set Slips GLOBALTEKS Set, 4 pc We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-1-q/7056333566.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/komplekt-trusov-slipy-globalteks-nabor-4-sht-884517778/?advert=a5f4kdimENRs2f2qdYhrRkI81__uE_9Nk3uW--YOf8NAhbwRQ7q_1sGSYesa7ntA3k598yApVP7hkCiy01C9iwqZ9HPA0nXT6NDOqARgYOnYBzouOxYlvR9NP0yeR7YWs1t9bYL854O8pdgExI7VZqSpYvUBenv5\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "884517778",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "2 908 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "7 972 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−63%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": "Underwear Trunks&#x2F;Panties Set Slips GLOBALTEKS Set, 4 pc",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "jYtZ9xNgpfp8RBm6UXD8BYPSnrlj1ZtW8r45RCr3rQw2"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "jYtZ9xNgpfp8RBm6UXD8BYPSnrlj1ZtW8r45RCr3rQw2"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "jYtZ9xNgpfp8RBm6UXD8BYPSnrlj1ZtW8r45RCr3rQw2"
+                        }
+                    }
+                },
+                {
+                    "alt": " Cleaning Kit We recommend it for you",
+                    "isAdult": false,
+                    "items": [
+                        {
+                            "type": "video",
+                            "video": {
+                                "preview": "https://cdn1.ozone.ru/s3/multimedia-z/6854270795.jpg",
+                                "link": "https://v.ozone.ru/vod/video-29/01HC9GH7JMK15TE1Z7H4WYR0G1/tile.mp4",
+                                "tracking": {
+                                    "startedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "started",
+                                            "key": "Y7tj8yB5Gi1W8xjot3Eyq4zSxOLZ3Rs1lxyRru1MqYjJ"
+                                        }
+                                    },
+                                    "finishedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "finished",
+                                            "key": "Y7tj8yB5Gi1W8xjot3Eyq4zSxOLZ3Rs1lxyRru1MqYjJ"
+                                        }
+                                    },
+                                    "interruptedTrackingInfo": {
+                                        "click": {
+                                            "actionType": "interrupted",
+                                            "key": "Y7tj8yB5Gi1W8xjot3Eyq4zSxOLZ3Rs1lxyRru1MqYjJ"
+                                        }
+                                    }
+                                },
+                                "previewContentMode": "SCALE_ASPECT_FILL"
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "image": {
+                                "link": "https://cdn1.ozone.ru/s3/multimedia-z/6854270795.jpg",
+                                "contentMode": "SCALE_ASPECT_FIT"
+                            }
+                        }
+                    ],
+                    "link": "/product/nabor-dlya-uborki-na-kuhne-2-mnogofunktsionalnyh-skrebka-3-shchetki-dlya-ustraneniya-zasohshih-i-1143686047/?advert=Xyyx85AhRwWhs4todiOabXunlBzfgOWMnvGS2M5cNVvk8QDAkGbY9E9tE_7dzY91BevENHVMxEvxU0wLZavUkMfrPALA2cbgrcuNChg4FdK_lqdpf334QZdOIwXhVINOVeidTnf1fTXdtNlVG7A0dlhJgU5bOKBB\u0026avtc=1\u0026avte=2\u0026avts=1724098889",
+                    "shouldBlur": false,
+                    "skuId": "1143686047",
+                    "state": [
+                        {
+                            "type": "priceV2",
+                            "priceV2": {
+                                "price": [
+                                    {
+                                        "text": "971 ₸",
+                                        "textStyle": "PRICE"
+                                    },
+                                    {
+                                        "text": "14 561 ₸",
+                                        "textStyle": "ORIGINAL_PRICE"
+                                    }
+                                ],
+                                "discount": "−93%",
+                                "priceStyle": {
+                                    "styleType": "SALE_PRICE",
+                                    "gradient": {
+                                        "startColor": "#F81155",
+                                        "endColor": "#F81155"
+                                    }
+                                },
+                                "preset": "SIZE_500",
+                                "paddingBottom": "PADDING_200"
+                            }
+                        },
+                        {
+                            "type": "stockBar",
+                            "stockBar": {
+                                "theme": "THEME_TYPE_MEDIUM",
+                                "text": "Only 2,203 pieces left",
+                                "percent": 35,
+                                "stockBarColor": "ozRed"
+                            }
+                        },
+                        {
+                            "type": "textAtom",
+                            "textAtom": {
+                                "text": " Cleaning Kit",
+                                "textStyle": "tsBodyL",
+                                "maxLines": 2,
+                                "testInfo": {
+                                    "automatizationId": "tile-name"
+                                }
+                            }
+                        }
+                    ],
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "Y7tj8yB5Gi1W8xjot3Eyq4zSxOLZ3Rs1lxyRru1MqYjJ"
+                        },
+                        "right_click": {
+                            "actionType": "right_click",
+                            "key": "Y7tj8yB5Gi1W8xjot3Eyq4zSxOLZ3Rs1lxyRru1MqYjJ"
+                        },
+                        "view": {
+                            "actionType": "view",
+                            "key": "Y7tj8yB5Gi1W8xjot3Eyq4zSxOLZ3Rs1lxyRru1MqYjJ"
+                        }
+                    }
+                }
+            ]
+        },
+        "widgetOptions": {
+            "imageAlign": "",
+            "keepScrollPosition": false
+        }
+    }
+]

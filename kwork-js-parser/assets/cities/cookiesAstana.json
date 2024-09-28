@@ -1,0 +1,17 @@
+{
+  "accept": "application/json, text/*",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "accept-language": "en-US,en;q=0.9",
+  "connection": "keep-alive",
+  "cookie": "ks.tg=99; k_stat=135f2005-91ae-4e7b-baed-6f2472c53392; kaspi.storefront.cookie.city=710000000",
+  "host": "kaspi.kz",
+  "referer": "https://kaspi.kz/shop/nur-sultan/c/food/?q=%3AavailableInZones%3AMagnum_ZONE5%3Acategory%3AFood&sort=relevance&sc",
+  "sec-ch-ua": "\"Google Chrome\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Linux\"",
+  "sec-fetch-dest": "empty",
+  "sec-fetch-mode": "cors",
+  "sec-fetch-site": "same-origin",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+  "x-ks-city": "710000000"
+}

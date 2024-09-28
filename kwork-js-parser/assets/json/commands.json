@@ -1,0 +1,19 @@
+[
+    {
+      "command": "start",
+      "description": "Начало работы с ботом"
+    },
+    {
+      "command": "ozon",
+      "description": "Получить данные по Озон"
+    },
+    {
+      "command": "kaspi",
+      "description": "Получить данные по Каспи"
+    },
+    {
+      "command": "tovari",
+      "description": "Получить данные по товарам"
+    }
+  ]
+  
